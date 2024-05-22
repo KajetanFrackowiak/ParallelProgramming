@@ -1,0 +1,1 @@
+dpcpp -rdynamic CMakeFiles/your_executable.dir/main.cpp.o -o your_executable  -Wl,-rpath,/opt/intel/oneapi/tbb/latest/lib /opt/intel/oneapi/tbb/latest/lib/libtbb.so 

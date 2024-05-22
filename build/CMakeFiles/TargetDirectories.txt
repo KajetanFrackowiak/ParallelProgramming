@@ -1,0 +1,3 @@
+/home/kajetan/Documents/ParallelPrograming/build/CMakeFiles/your_executable.dir
+/home/kajetan/Documents/ParallelPrograming/build/CMakeFiles/edit_cache.dir
+/home/kajetan/Documents/ParallelPrograming/build/CMakeFiles/rebuild_cache.dir
